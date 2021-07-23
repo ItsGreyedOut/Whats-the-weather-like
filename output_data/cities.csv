@@ -1,4 +1,4 @@
-,City,Latitude,Lonitude,Max Temperature (°C),Humidity (%),Cloudiness (%),Wind Speed (MPH),Country,Date
+,City,Latitude,Longitude,Max Temperature (°C),Humidity (%),Cloudiness (%),Wind Speed (MPH),Country,Date
 0,meulaboh,4.1363,96.1285,26.86,80,100,1.28,ID,1627051550
 1,esperance,-33.8667,121.9,8.91,75,95,10.89,AU,1627051551
 2,saskylakh,71.9167,114.0833,16.3,77,39,2.48,RU,1627051552
