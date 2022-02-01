@@ -1,8 +1,8 @@
-# Python API Project - What's the Weather Like?
+# What's the Weather Like?
 
 ## Background
 
-Whether financial, political, or social -- data's true power lies in its ability to answer questions definitively. So let's take what you've learned about Python requests, APIs, and JSON traversals to answer a fundamental question: "What's the weather like as we approach the equator?"
+Whether financial, political, or social -- data's true power lies in its ability to answer questions definitively. So let's take what you've learned about Python requests, APIs, and JSON travelers to answer a fundamental question: "What's the weather like as we approach the equator?"
 
 Now, we know what you may be thinking: _"Duh. It gets hotter..."_
 
@@ -11,7 +11,7 @@ But, if pressed, how would you **prove** it?
 ![Equator](Images/equatorsign.png)
 
 
-## Part I - WeatherPy
+## WeatherPy
 
 I created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, I utilized a [simple Python library](https://pypi.python.org/pypi/citipy), the [OpenWeatherMap API](https://openweathermap.org/api), and to create a representative model of weather across world cities.
 
@@ -44,7 +44,7 @@ The final notebook contains:
 * Includes a print log of each city as it's being processed with the city number and city name.
 * A CSV of all retrieved data and a PNG image for each scatter plot.
 
-### Part II - VacationPy
+### VacationPy
 
 Next I provide the weather data to plan future vacations. I used jupyter-gmaps and the Google Places API to provide this feature.
 
